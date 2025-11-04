@@ -16,3 +16,16 @@ Aquí podremos poner más contenido.
 Aquí pondremos más cosillas
 
 ### Este es un título de tipo 3 (a mayor numeración, mas pequeño es el título)
+
+<table>
+  <tr>
+    <th>posición</th>
+    <th<Equipo</th>
+    <th>Puntuación</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>real madrid>/td>
+    <td>30</td>
+  </tr>
+</table>
