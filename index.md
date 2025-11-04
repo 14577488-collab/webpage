@@ -3,7 +3,6 @@ layout: default
 title: Inicio
 ---
 
-
 # ¡Bienvenido a mi sitio web: ADAM!
 
 Esta es una página web de mierda creada por mí con Jekyll y Github Pages
