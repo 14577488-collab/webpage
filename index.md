@@ -29,3 +29,24 @@ Aquí pondremos más cosillas
     <td>30</td>
   </tr>
 </table>
+ <td>1</td>
+    <td>barecelona>/td>
+    <td>25</td>
+    </tr>
+    </tr>
+    <td>1</td>
+    <td>murcia>/td>
+    <td>24</td>
+    </tr>
+    <tr>   
+    <td>1</td>
+    <td>torreño>/td>
+    <td>19</td>
+    </tr>
+    <tr>
+      <td>1</td>
+    <td>sevilla>/td>
+    <td>15</td>
+    </tr>
+      
+    
