@@ -28,13 +28,14 @@ Aquí pondremos más cosillas
   <tr>
 
     <td>1</td>
-    <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/885149a0-686c-4e7a-bb42-b656b115c206" />
     <td>barcelona
     <td>30</td>
   </tr>
 
   <tr>
     <td>2</td>
+    <td><img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/d90c52ef-ad56-4416-b5b1-e8520f55a148" />
+</td>
     <td>real madrid
     <td>25</td>
   </tr>
