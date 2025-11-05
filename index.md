@@ -25,7 +25,7 @@ Aquí pondremos más cosillas
   </tr>
   <tr>
     <td>1</td>
-    <td>real madrid>/td>
+    <td>barcelona>/td>
     <td>30</td>
   </tr>
 
@@ -37,17 +37,17 @@ Aquí pondremos más cosillas
 
   <tr>
     <td>3</td>
-    <td>real madrid>/td>
+    <td>murcia>/td>
     <td>30</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>real madrid>/td>
+    <td>sevilla>/td>
     <td>30</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>real madrid>/td>
+    <td>real betis>/td>
     <td>30</td>
   </tr>
 </table>
