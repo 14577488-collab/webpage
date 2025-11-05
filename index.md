@@ -37,7 +37,7 @@ Aquí pondremos más cosillas
 
   <tr>
     <td>3</td>
-    <td>murcia>
+    <td>murcia
     <td>20</td>
   </tr>
   <tr>
