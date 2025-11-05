@@ -31,23 +31,23 @@ Aquí pondremos más cosillas
 
   <tr>
     <td>2</td>
-    <td>real madrid>/td>
+    <td>real madrid
     <td>25</td>
   </tr>
 
   <tr>
     <td>3</td>
-    <td>murcia>/td>
+    <td>murcia>
     <td>20</td>
   </tr>
   <tr>
     <td>4</td>
-    <td>sevilla>/td>
+    <td>sevilla
     <td>19</td>
   </tr>
   <tr>
     <td>5</td>
-    <td>real betis>/td>
+    <td>real betis
     <td>10</td>
   </tr>
 </table>
