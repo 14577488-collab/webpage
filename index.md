@@ -44,16 +44,22 @@ Aquí pondremos más cosillas
 
   <tr>
     <td>3</td>
+    <td><img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/b25e0239-8902-4545-a93e-dd3ef3909996" />
+</td>
     <td>murcia
     <td>20</td>
   </tr>
   <tr>
     <td>4</td>
+    <td><img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/ff40a5c0-93e7-4c8f-8b88-423c18cb965c" />
+</td>
     <td>sevilla
     <td>19</td>
   </tr>
   <tr>
     <td>5</td>
+    <td><img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/80141ecd-9889-4d10-b8d8-92d849866637" />
+</td>
     <td>real betis
     <td>10</td>
   </tr>
