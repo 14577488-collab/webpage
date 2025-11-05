@@ -24,27 +24,32 @@ Aquí pondremos más cosillas
     <th>Puntuación</th>
   </tr>
   <tr>
-    <th>1</th>
-    <th>real madrid>/th>
-    <th>30</th>
+    <td>1</td>
+    <td>real madrid>/td>
+    <td>30</td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td>real madrid>/td>
+    <td>30</td>
+  </tr>
+
+  <tr>
+    <td>3</td>
+    <td>real madrid>/td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>real madrid>/td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>real madrid>/td>
+    <td>30</td>
   </tr>
 </table>
- <th>2</th>
-    <th>barecelona>/th>
-    <th></th>25</th>
-    </tr>
-    <th>3<th>
-    <td>murcia>/th>
-    <th>24</th>
-    </tr>  
-    <th>4</th>
-    <th>torreño>/th>
-    <th>19</th>
-    </tr>
-    <tr>
-      <th>5</th>
-    <td>sevilla>/td>
-    <td>15</td>
-    </tr>
       
     
