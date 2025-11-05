@@ -26,7 +26,6 @@ Aquí pondremos más cosillas
    
   </tr>
   <tr>
-
     <td>1</td>
     <td>barcelona
     <td>30</td>
