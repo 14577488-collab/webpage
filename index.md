@@ -20,7 +20,7 @@ Aquí pondremos más cosillas
 <table>
   <tr>
     <th>posición</th>
-    <th<Equipo</th>
+    <th</th>Equipo</th>
     <th>Puntuación</th>
   </tr>
   <tr>
@@ -32,23 +32,23 @@ Aquí pondremos más cosillas
   <tr>
     <td>2</td>
     <td>real madrid>/td>
-    <td>30</td>
+    <td>25</td>
   </tr>
 
   <tr>
     <td>3</td>
     <td>murcia>/td>
-    <td>30</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>4</td>
     <td>sevilla>/td>
-    <td>30</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>5</td>
     <td>real betis>/td>
-    <td>30</td>
+    <td>10</td>
   </tr>
 </table>
       
