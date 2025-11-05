@@ -27,7 +27,7 @@ Aquí pondremos más cosillas
   </tr>
   <tr>
     <td>1</td>
-    <td><img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/be94f7e8-65fe-4907-874e-4f420899ec80" />
+    <td><img width="225" height="225" baja="image" src="https://github.com/user-attachments/assets/be94f7e8-65fe-4907-874e-4f420899ec80" />
 </td>
     <td>barcelona
     <td>30</td>
