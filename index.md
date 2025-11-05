@@ -20,7 +20,7 @@ Aquí pondremos más cosillas
 <table>
   <tr>
     <th>posición</th>
-    <th</th>Equipo</th>
+    <th>Equipo</th>
     <th>Puntuación</th>
   </tr>
   <tr>
