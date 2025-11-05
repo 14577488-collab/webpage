@@ -34,7 +34,8 @@ Aquí pondremos más cosillas
 
   <tr>
     <td>2</td>
-    <td><img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/d90c52ef-ad56-4416-b5b1-e8520f55a148" />
+    <td><img width="231" height="218" alt="image" src="https://github.com/user-attachments/assets/c1591c95-fdda-4a9d-a615-e8b073921f36" />
+/>
 </td>
     <td>real madrid
     <td>25</td>
