@@ -22,8 +22,11 @@ Aquí pondremos más cosillas
     <th>posición</th>
     <th>Equipo</th>
     <th>Puntuación</th>
+    <th>Escudo</th>
   </tr>
   <tr>
+  <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/e278669b-52f0-40c4-83d5-d7bafe0cbc46" />
+
     <td>1</td>
     <td>barcelona
     <td>30</td>
