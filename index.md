@@ -1,10 +1,13 @@
 ---
 layout: splash
 title: Inicio
+permalink: /splash-page/
 header:
  overlay-color: "000"
  overlay-filter: "0"
- overlay-image:https://3.bp.blogspot.com/-wdk8M3w2JW0/VV8W1VwtVUI/AAAAAAAACLM/XUjxSpGrSXo/s320/LOGO%2BPRINCIPAL.bmp
+ overlay-image:https://3.bp.blogspot.com/-wdk8M3w2JW0/VV8W1VwtVUI/AAAAAAAACLM/XUjxSpGrSXo/s320/LOGO%2BPRINCIPAL.bmp 
+ caption: "La foto la echó percio de los palotes "
+ excerpt: "Logo del centro educativo FPS"
 ---
 
 # ¡Bienvenido a mi sitio web: ADAM!
