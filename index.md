@@ -50,7 +50,7 @@ Aquí pondremos más cosillas
 
   <tr>
     <td>3</td>
-    <td><img "image" src="https://github.com/user-attachments/assets/b25e0239-8902-4545-a93e-dd3ef3909996" />
+    <td><img alt"image" src="https://github.com/user-attachments/assets/b25e0239-8902-4545-a93e-dd3ef3909996" />
 </td>
     <td>murcia
     <td>20</td>
