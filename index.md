@@ -8,6 +8,7 @@ header:
 caption: "La foto la echó Perico de los palotes"
 excerpt: "Logo del centro educativo FPS"
 ---
+
 # ¡Bienvenido a mi sitio web: ADAM!
 
 Esta es una página web de mierda creada por mí con Jekyll y Github Pages
