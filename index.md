@@ -1,5 +1,4 @@
 ---
-l---
 layout: splash
 title: Inicio
 header:
