@@ -3,6 +3,7 @@ layout: single
 title: Ciclos formativos
 permalink: /ciclos/
 toc: true
+toc_label: Selecciona un ciclo
 ---
 
 # C.F. de Grado Medio
