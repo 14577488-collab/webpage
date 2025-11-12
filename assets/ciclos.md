@@ -1,12 +1,11 @@
 ---
-layout: splash
-title: ciclos formativos
-permalink: /ciclos/
+ layout: splash
+ title: ciclos formativos
+ permalink: /ciclos/
 ---
 
 # C.F. de Grado Medio
 ## Gestión Administrativa
-
 |Curso|	Módulo Profesional |	Horas totales |
 |---|---|---|
 |1|	Comunicación empresarial y atención al cliente |	135 |
@@ -28,7 +27,6 @@ permalink: /ciclos/
 |2|	Optativa |	80 |
 
 ## Cuidados Auxiliares de Enfermería
-
 |Curso|	Módulo Profesional |	Horas totales |
 |---|---|---|
 |1|	Operaciones administrativas y documentación sanitaria |	65 |
@@ -42,7 +40,6 @@ permalink: /ciclos/
 
 # C.F. de Grado Básico
 ## Informática de oficina
-
 | Curso |    Módulo Profesional |     Horas totales |
 |---|---|---|
 |1| Montaje y mantenimiento de sistemas y componentes informáticos |    375 |
@@ -59,7 +56,6 @@ permalink: /ciclos/
 |2|    Proyecto intermodular de aprendizaje colaborativo |    50 |
 
 ## Servicios administrativos
-
 | Curso |    Módulo Profesional |    Horas totales |
 |---|---|---|
 |1|    Tratamiento informático de datos |    300 |
@@ -78,7 +74,6 @@ permalink: /ciclos/
 |2|    Proyecto intermodular de aprendizaje colaborativo |    50 |
 
 ## Alojamiento y lavandería
-
 |Curso|    Módulo Profesional |    Horas totales |
 |---|---|---|
 |1|    Materiales y productos textiles |    115 |
