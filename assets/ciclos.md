@@ -41,39 +41,25 @@ permalink: /ciclos/
 |2|	Formación en centros de trabajo |	440 |
 
 # C.F. de Grado Básico
-
-|Curso|	Módulo Profesional |	Horas totales |
-|---|---|---|
-|1|	Montaje y mantenimiento de sistemas y componentes informáticos |	375 |
-|1|	Ciencias aplicadas | 	140 |
-|1|	Comunicación y sociedad  |	140 |
-|1|	Tutoría |	30 |
-|1|	Operaciones auxiliares para la configuración y la explotación |	260 |
-|1|	Itienerario personal para la empleabilidad |	55 |
-|2|	Ofimática y archivo de documentos |	350 |
-|2|	Instalación y mantenimiento de redes para transmisión de datos |	310 |
-|2|	Ciencias aplicadas  |	130 |
-|2|	Comunicación y sociedad  |	130 |
-|2|	Tutoría |	30 |
-|2|	Proyecto intermodular de aprendizaje colaborativo |	50 |
-
 ## Informática de oficina
-| Curso |    Módulo Profesional    | Horas totales |
+
+| Curso |    Módulo Profesional |     Horas totales |
 |---|---|---|
-|1|    Montaje y mantenimiento de sistemas y componentes informáticos|    375 |
+|1| Montaje y mantenimiento de sistemas y componentes informáticos |    375 |
 |1|    Ciencias aplicadas |    140 |
 |1|    Comunicación y sociedad |    140 |
-|1|    Tutoría|    30 |
-|1|    Operaciones auxiliares para la configuración y la explotación|    260 |
-|1|    Itienerario personal para la empleabilidad|    55 |
-|2|    Ofimática y archivo de documentos|    350 |
-|2|    Instalación y mantenimiento de redes para transmisión de datos|    310 |
-|2|    Ciencias aplicadas |    130 |
-|2|    Comunicación y sociedad |    130 |
-|2|    Tutoría|    30 |
-|2|    Proyecto intermodular de aprendizaje colaborativo|    50 |
+|1|    Tutoría |    30 |
+|1|    Operaciones auxiliares para la configuración y la explotación |    260 |
+|1|    Itienerario personal para la empleabilidad |    55 |
+|2|    Ofimática y archivo de documentos |    350 |
+|2|    Instalación y mantenimiento de redes para transmisión de datos |    310 |
+|2|    Ciencias aplicadas | 130 |
+|2|    Comunicación y sociedad | 130 |
+|2|    Tutoría |    30 |
+|2|    Proyecto intermodular de aprendizaje colaborativo |    50 |
 
 ## Servicios administrativos
+
 | Curso |    Módulo Profesional |    Horas totales |
 |---|---|---|
 |1|    Tratamiento informático de datos |    300 |
@@ -82,7 +68,7 @@ permalink: /ciclos/
 |1|    Ciencias aplicadas | 140 |
 |1|    Comunicación y sociedad | 140 |
 |1|    Tutoría |    30 |
-|11    Itienerario personal para la empleabilidad |    55 |
+|1|    Itienerario personal para la empleabilidad |    55 |
 |2|    Aplicaciones básicas de ofimática |    310 |
 |2|    Archivo y comunicación |    200 |
 |2|    Preparación de pedidos y venta de productos |    150 |
@@ -92,20 +78,21 @@ permalink: /ciclos/
 |2|    Proyecto intermodular de aprendizaje colaborativo |    50 |
 
 ## Alojamiento y lavandería
-|Curso|	Módulo Profesional |	Horas totales |
+
+|Curso|    Módulo Profesional |    Horas totales |
 |---|---|---|
-|1|	Materiales y productos textiles |	115 |
-|1|	Lavado y secado de ropa |	185 |
-|1|	Planchado y embolsado de ropa |	185 |
-|1|	Ciencias aplicadas | 140 |
-|1|	Comunicación y sociedad |	140 |
-|1|	Tutoría |	30 |
-|1|	Preparación y montaje de materiales para colectividades y catering |	150 |
-|1|	Itienerario personal para la empleabilidad |	55 |
-|2|	Puesta a punto de habitaciones y zonas comunes en alojamiento |	275 |
-|2|	Atención al cliente |	75 |
-|2|	Lavandería y mantenimiento de lencería en el alojamiento |	310 |
-|2|	Ciencias aplicadas |	130 |
-|2|	Comunicación y sociedad |	130 |
-|2|	Tutoría |	30 |
-|2|	Proyecto intermodular de aprendizaje colaborativo |	55 |
+|1|    Materiales y productos textiles |    115 |
+|1|    Lavado y secado de ropa |    185 |
+|1|    Planchado y embolsado de ropa |    185 |
+|1|    Ciencias aplicadas | 140 |
+|1|    Comunicación y sociedad | 140 |
+|1|    Tutoría |    30 |
+|1|    Preparación y montaje de materiales para colectividades y catering |    150 |
+|1|    Itienerario personal para la empleabilidad |    55 |
+|2|    Puesta a punto de habitaciones y zonas comunes en alojamiento |    275 |
+|2|    Atención al cliente |    75 |
+|2|    Lavandería y mantenimiento de lencería en el alojamiento |    310 |
+|2|    Ciencias aplicadas | 130 |
+|2|    Comunicación y sociedad | 130 |
+|2|    Tutoría |    30 |
+|2|    Proyecto intermodular de aprendizaje colaborativo |    55 |
